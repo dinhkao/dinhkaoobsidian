@@ -141,13 +141,21 @@
                 "file": "alooo.md"
               }
             }
+          },
+          {
+            "id": "a9e2bbdb8ada503a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
